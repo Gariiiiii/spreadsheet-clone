@@ -4,7 +4,7 @@ A modern spreadsheet UI built using **React** and **Tailwind CSS**, inspired by 
 
 ## 🚀 Live Preview
 
-[(https://spreadsheetclone.netlify.app/)](#) 
+https://spreadsheetclone.netlify.app/
 
 ## 💠 Tech Stack
 
